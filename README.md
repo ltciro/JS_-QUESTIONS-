@@ -119,6 +119,7 @@
     **Hint** ironicamente NaN es tipo number y hay que tener cuidado con el manejo de los numeros, en lo posible validar que no sean NaN 
     ```js
         console.log(typeof NaN)
+        const x = NanN
         console.log( x <= 100 )
         console.log( x > 100 )
     ```
@@ -255,7 +256,7 @@
 ----------------------------------------------------------------------------------------------------------------
 - ¿Cómo se puede agregar un item a un Array?
     <details><summary><b>Respuesta</b></summary>
-    <img src="./Append_item_to_Array.png" 
+    <img src="./Append_item_to_Array.PNG" 
     alt="Append item to Array"   />
     </details
 ----------------------------------------------------------------------------------------------------------------
